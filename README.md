@@ -8,8 +8,8 @@
 **Contributions are welcome!**
 
 > [!IMPORTANT]  
-> too run xorg apps on wayland you would require `xwayland-satellite` installed and running on your system
-> For Screen Capture you require `pipewire` and `xdg-desktop-portal-gnome` installed and running on your system. If screen capture isn't working try restarting your session or the system.
+> - To run xorg apps on wayland you would require `xwayland-satellite` installed and running on your system
+> - For Screen Capture you require `pipewire` and `xdg-desktop-portal-gnome` installed and running on your system. If screen capture isn't working try restarting your session or the system.
 
 ## Roadmap
 
