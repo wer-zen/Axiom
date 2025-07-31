@@ -6,6 +6,8 @@
 > [!NOTE]  
 > This desktop environment is currently in a pre-pre-alpha stage and not yet ready for daily use.
 **Contributions are welcome!**
+> [!IMPORTANT]
+> Screen Capture is not working and the code monkeys are working very hard to fix it!
 
 ## Roadmap
 
