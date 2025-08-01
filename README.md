@@ -14,7 +14,7 @@
 ## Roadmap
 
 - [ ] App Launcher
-- [ ] Bar
+- [ x ] Bar
 - [ ] Calculator
 - [ ] Calendar
 - [ ] Clipboard Manager
@@ -26,7 +26,7 @@
 - [ ] Kanban Board
 - [ ] Network Manager
 - [ ] Bluetooth Manager
-- [ ] Notch
+- [ x ] Notch
 - [ ] Notifications
 - [ ] Power Manager
 - [ ] Power Menu
