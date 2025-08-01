@@ -16,7 +16,7 @@ PanelWindow {
 
     mask: Region {}
 
-    property real heightBar: 60
+    property real heightBar: 39
 
     StyledRect {
 
@@ -36,22 +36,21 @@ PanelWindow {
             Corners {
                 anchors.left: leftWing.right
                 corner: Corners.CornerEnum.StraightTopLeft
-                size: 60
+                size: 40
                 x: 0
             }
 
             StyledRect {
 
-                height: parent.height * 0.8
-
-                width: parent.width * 0.17
+                height: parent.height * 0.85
+                width: parent.width * 0.13
                 radius: 50
                 anchors.centerIn: parent
             }
             Corners {
                 anchors.right: rightWing.left
                 corner: Corners.CornerEnum.StraightTopRight
-                size: 60
+                size: 40
             }
 
             StyledRect {
